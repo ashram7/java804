@@ -6,11 +6,12 @@ public class SmartTelevisionExample {
         SmartTelevision tv = new SmartTelevision();
 
         RemoteControl rc = tv;
-        
-        
+        rc.turnOn();
+        rc.setVolume(5);
+        rc.turnOff();       
         
         Searchable searchable = tv;
-        
+        searchable.search("http://www.hschool.co.kr");
 	}
 
 }
