@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="sec06.exam05.package1.A"/>
+<fullyQualifiedTypeName name="sec01.exam01.A.B"/>
+<fullyQualifiedTypeName name="sec01.exam01.A.C"/>
 </qualifiedTypeNameHistroy>

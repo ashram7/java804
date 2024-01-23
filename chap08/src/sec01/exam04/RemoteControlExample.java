@@ -15,8 +15,6 @@ public class RemoteControlExample {
         rc.turnOn();
         rc.setVolume(5);
         rc.turnOff();		
-		
-		
 	}
 
 }
