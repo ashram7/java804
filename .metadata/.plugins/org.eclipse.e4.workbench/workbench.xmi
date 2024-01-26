@@ -98,8 +98,8 @@
             <children xsi:type="basic:PartSashContainer" xmi:id="_Ha8oqrXEEe6hNNRu-Gut_w" containerData="8484" selectedElement="_Ha8oq7XEEe6hNNRu-Gut_w">
               <children xsi:type="basic:PartSashContainer" xmi:id="_Ha8oq7XEEe6hNNRu-Gut_w" containerData="7500" selectedElement="_NJgt8LXEEe6hNNRu-Gut_w" horizontal="true">
                 <children xsi:type="basic:PartSashContainer" xmi:id="_NJgt8LXEEe6hNNRu-Gut_w" containerData="5000" selectedElement="_NJgt8bXEEe6hNNRu-Gut_w" horizontal="true">
-                  <children xsi:type="advanced:Placeholder" xmi:id="_Ha8orLXEEe6hNNRu-Gut_w" elementId="org.eclipse.ui.editorss" containerData="7300" ref="_AtRLf6rfEe6T7LLZMCud3g"/>
-                  <children xsi:type="basic:PartStack" xmi:id="_NJgt8bXEEe6hNNRu-Gut_w" elementId="PartStack@1dd106" containerData="2700" selectedElement="_Ha8oubXEEe6hNNRu-Gut_w">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_Ha8orLXEEe6hNNRu-Gut_w" elementId="org.eclipse.ui.editorss" containerData="6880" ref="_AtRLf6rfEe6T7LLZMCud3g"/>
+                  <children xsi:type="basic:PartStack" xmi:id="_NJgt8bXEEe6hNNRu-Gut_w" elementId="PartStack@1dd106" containerData="3120" selectedElement="_Ha8oubXEEe6hNNRu-Gut_w">
                     <tags>active</tags>
                     <children xsi:type="advanced:Placeholder" xmi:id="_Ha8oubXEEe6hNNRu-Gut_w" elementId="org.eclipse.ui.console.ConsoleView" ref="_AtRxXarfEe6T7LLZMCud3g"/>
                   </children>
@@ -195,7 +195,7 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_WIoLcLwOEe6eQMrouyzFNA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="BankApplication.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BankApplication.java&quot; partName=&quot;BankApplication.java&quot; title=&quot;BankApplication.java&quot; tooltip=&quot;exam07/src/test03/BankApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/exam07/src/test03/BankApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2372&quot; selectionTopPixel=&quot;1080&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;BankApplication.java&quot; partName=&quot;BankApplication.java&quot; title=&quot;BankApplication.java&quot; tooltip=&quot;exam07/src/test03/BankApplication.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/exam07/src/test03/BankApplication.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3352&quot; selectionTopPixel=&quot;1800&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -420,7 +420,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AtRx66rfEe6T7LLZMCud3g" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_q5R2QLwWEe6NiJ4_twYlzQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_AtU2GarfEe6T7LLZMCud3g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_tsV28LwaEe606IA_K3YssA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_AtU2GarfEe6T7LLZMCud3g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AtRx-KrfEe6T7LLZMCud3g" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -453,7 +453,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AtRyTKrfEe6T7LLZMCud3g" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_q5TEZLwWEe6NiJ4_twYlzQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_AtU1vKrfEe6T7LLZMCud3g"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_tsXFFLwaEe606IA_K3YssA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_AtU1vKrfEe6T7LLZMCud3g"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_AtRyV6rfEe6T7LLZMCud3g" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
