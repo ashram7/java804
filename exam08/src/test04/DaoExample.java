@@ -11,6 +11,7 @@ public class DaoExample {
 	public static void main(String[] args) {
 		dbwork(new OracleDao());
 		dbwork(new MySqlDao());
+		String str = "오윤석";
 	}
 
 }
