@@ -4,4 +4,5 @@
 <fullyQualifiedTypeName name="sec01.exam01.A.B"/>
 <fullyQualifiedTypeName name="sec01.exam01.A.C"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.awt.Toolkit"/>
 </qualifiedTypeNameHistroy>
